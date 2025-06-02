@@ -26,3 +26,7 @@
                        *Fetch public health data,disease spread statistics, or demographic information from government APIs and visualize trends for research or public awareness.
                    4.Educational Tools:
                        *Develop interactive tools that allow students to explore real-world data( e.g.,climate change,population data) and learn about data analysis and visualization.
+
+ *OUTPUT*:
+
+ ![Image](https://github.com/user-attachments/assets/5fabe3f1-e7ce-4a94-a8a7-15407e554200)
